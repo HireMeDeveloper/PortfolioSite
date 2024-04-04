@@ -26,6 +26,8 @@ export const Generator = () => {
     </div>
 }
 
+type GeneratorSpinnerParams = {}
+
 const GeneratorSpinner = ({ options }: { options: string[] }) => {
     return <>
         {options[Math.floor(Math.random() * options.length)]}

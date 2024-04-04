@@ -78,7 +78,7 @@ export function StandardGameCard(gameName: string, title: string, description: s
                     <h1 className="font-extrabold text-lg text-primary-light">
                         {title}
                     </h1>
-                    <p className="aspect-video">
+                    <p className="aspect-video text-white">
                         {description}
                     </p>
                 </div>
