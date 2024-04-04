@@ -16,7 +16,7 @@ export default function Home() {
           👋, my name is Jeffrey Lamb and I am a professional
         </h1>
       </section>
-      <section className="mt-2 sm:mt-3 md:mt-4 lg:mt-4 xl:mt-5 xl:text-9xl lg:text-8xl md:text-7xl sm:text-6xl text-5xl font-extrabold">
+      <section className="mt-2 sm:mt-3 md:mt-4 lg:mt-4 xl:mt-5 xl:text-9xl lg:text-8xl md:text-7xl sm:text-5xl text-4xl font-extrabold">
         <h1 className="flex justify-center">
           Game Developer
           <br />
