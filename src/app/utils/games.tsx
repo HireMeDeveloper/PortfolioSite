@@ -68,7 +68,7 @@ export function StandardGameCard(gameName: string, title: string, description: s
             <div
                 className="block max-w-[18rem] rounded-lg bg-secondary-light text-surface shadow-secondary-1 dark:bg-surface-dark dark:text-white shadow-lg shadow-black hover:shadow-primary-light hover:-translate-y-1">
                 <div className="relative overflow-hidden bg-cover bg-no-repeat aspect-video">
-                    <Image
+                    <img
                         className="rounded-t-lg scale-100 object-fill object-center"
                         src={gameName}
                         alt=""
