@@ -61,7 +61,7 @@ export default function Academics() {
             </div>
             <section className="flex justify-center mt-10 text-white">
                 <button className=" bg-primary-light rounded-md p-2 pl-5 pr-5 font-bold hover:scale-110 active:scale-90 text-lg">
-                    <a href="/JeffreyLambCV.pdf" download="JeffreyLambCV">
+                    <a href="/JeffLambCV  2024.pdf" download="JeffLambCV">
                         Download My Resume
                     </a>
                 </button>
